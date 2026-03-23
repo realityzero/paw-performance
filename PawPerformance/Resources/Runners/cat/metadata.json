@@ -1,0 +1,12 @@
+{
+  "id": "cat",
+  "name": "Cat",
+  "speedMultiplier": 1.0,
+  "frameSize": { "width": 22, "height": 18 },
+  "states": {
+    "idle": { "frames": 4 },
+    "trot": { "frames": 4 },
+    "sprint": { "frames": 4 },
+    "panic": { "frames": 4 }
+  }
+}
